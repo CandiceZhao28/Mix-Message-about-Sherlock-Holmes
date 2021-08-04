@@ -8,5 +8,6 @@ const obj = {
         let rand3 = Math.floor(Math.random()*this.where.length);
         let msg = this.who[rand1] + ' ' + this.doesWhat[rand2] + ' ' + this.where[rand3] + '...';
         console.log('\n' + msg);
-    }
+    },
 };
+obj.message();
