@@ -6,7 +6,7 @@ const obj = {
         const rand1 = Math.floor(Math.random()*this.who.length);  
         const rand2 = Math.floor(Math.random()*this.doesWhat.length);
         const rand3 = Math.floor(Math.random()*this.where.length);
-        const msg = this.who[rand1] + this.doesWhat[rand2] + this.where[rand3] + '...';
+        const msg = this.who[rand1] + ' ' + this.doesWhat[rand2] + ' ' + this.where[rand3] + '...';
         console.log(msg);
     }
 };
