@@ -4,4 +4,4 @@ This code randomly generates a mixed messaged based one of my favourite TV serie
 ### Example:
 <img width="631" alt="Screenshot 2021-08-04 at 11 36 28" src="https://user-images.githubusercontent.com/83700920/128167205-6595357d-1cfc-484f-9025-651bb30fbe8a.png">
 
-This is a practice project of Javascript. 
+_This is a practice project of Javascript_. 
